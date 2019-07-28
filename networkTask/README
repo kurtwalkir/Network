@@ -1,0 +1,9 @@
+Test task "Client-server application"
+Maintainer: Mordyk Oleksandr <kurtwalkir@gmail.com>
+
+Installation:
+   make
+
+Usage:
+   ./clientServer Server
+   ./clientServer Client
